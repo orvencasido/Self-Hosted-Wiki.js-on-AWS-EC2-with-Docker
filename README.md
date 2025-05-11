@@ -1,4 +1,4 @@
-# 🔐 Secure Ubuntu Server with UFW and Fail2Ban (SSH Hardening on AWS EC2)
+# 🐋 Wiki.js with Docker & PostgreSQL on AWS EC2!
 
 This project demonstrates how to deploy Wiki.js — a powerful, modern, and open-source wiki engine — using Docker and Docker Compose with a PostgreSQL database.
 

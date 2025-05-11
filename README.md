@@ -31,20 +31,17 @@ sudo apt update
 sudo apt install docker.io docker-compose -y
 sudo systemctl start docker
 sudo systemctl enable docker
-
 ```
 
 ### ✅ 2. Create a Project Directory
 ```
 mkdir wikijs-docker
 cd wikijs-docker
-
 ```
 
 ### ✅ 3. Create docker-compose.yml
 ```
 nano docker-compose.yml
-
 ```
 
 ```
@@ -78,7 +75,6 @@ services:
 
 volumes:
   db-data:
-
 ```
 
 ### ✅ 4. Launch the Containers
